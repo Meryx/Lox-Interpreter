@@ -1,0 +1,7 @@
+# Ignore specific folders
+downloads/
+Compilers/
+Shared Folder/
+
+# Ignore .exe files
+*.exe
