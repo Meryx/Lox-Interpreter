@@ -7,3 +7,6 @@ build/
 
 # Ignore .exe files
 *.exe
+
+# Ignore source
+hi

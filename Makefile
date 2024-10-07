@@ -19,7 +19,7 @@ SOURCES = $(wildcard $(SRC_DIR)/*.c)
 OBJECTS = $(patsubst $(SRC_DIR)/%.c, $(BUILD_DIR)/%.o, $(SOURCES))
 
 # Executable Name
-TARGET = $(BIN_DIR)/my_program.exe
+TARGET = $(BIN_DIR)/clox.exe
 
 # Default Target
 all: $(TARGET)
