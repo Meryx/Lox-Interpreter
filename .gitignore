@@ -2,6 +2,8 @@
 downloads/
 Compilers/
 Shared Folder/
+bin/
+build/
 
 # Ignore .exe files
 *.exe
